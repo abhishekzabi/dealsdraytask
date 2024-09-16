@@ -1,16 +1,8 @@
 # dealsdray
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-09-17 004139](https://github.com/user-attachments/assets/0dd81fe4-789d-4f46-b01e-95ed87ff804f)
+![Screenshot 2024-09-17 004225](https://github.com/user-attachments/assets/27d93a7a-a92d-429c-a5b2-0f98889145aa)
+![Screenshot 2024-09-17 004325](https://github.com/user-attachments/assets/97444e7b-c561-44de-9e47-12493ed8575d)
+![Screenshot 2024-09-17 004340](https://github.com/user-attachments/assets/8c91fe8e-4254-49e3-9130-90e488f2772c)
+![Screenshot 2024-09-17 004429](https://github.com/user-attachments/assets/a2406df3-7f8c-4b15-b1f0-e4e91d52aabd)
+![Screenshot 2024-09-17 004443](https://github.com/user-attachments/assets/3f6bfeb5-1c70-437b-a76a-ef7878862053)
